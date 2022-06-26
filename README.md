@@ -4,6 +4,8 @@ A simple extension that allows you to edit any website as if it were a word docu
 
 FIREFOX: https://addons.mozilla.org/es/firefox/addon/edit-website/
 
+EDGE: https://microsoftedge.microsoft.com/addons/detail/edit-website/
+
 ##### At the moment it is under review for publication in Edge. (but you can clone this repository and test it in development)
 
 # Screenshots
